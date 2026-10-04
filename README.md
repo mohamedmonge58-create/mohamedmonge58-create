@@ -8,9 +8,10 @@
 ⚡ Fun fact: I enjoy turning ideas into real mobile applications
 
 ## 🌐 Socials:
-
+![Facebook](https://facebook.com/https://www.facebook.com/mohamed.monge.56)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Mohamedd_Mongee)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamed-monge-71675b380/)
+
 
 # 💻 Tech Stack:
 
