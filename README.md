@@ -1,74 +1,128 @@
-# 💫 About Me:
+# 👋 Hey, I'm Mohamed Monge
 
-🚀 I’m currently working on **M3loma**, a Flutter learning platform<br><br>
-👥 I’m looking to collaborate on **Flutter & Mobile Development projects**<br><br>
-🤝 I’m looking for help with improving my **Flutter architecture**<br><br>
-🌱 I’m currently learning **Advanced Flutter, Firebase & Clean Architecture**<br><br>
-💬 Ask me about **Flutter, Dart, Firebase & REST APIs**<br><br>
-⚡ Fun fact: **I enjoy turning ideas into real mobile applications**
+### 🚀 Flutter Developer | Mobile App Development
 
----
-
-## 🌐 Socials:
-
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/mohamed.monge.56)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/mohamedd_mongee/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-monge-71675b380/)
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Mobile+Experiences;Turning+Ideas+Into+Applications" alt="Typing SVG" />
+</p>
 
 ---
 
-# 💻 Tech Stack:
+## 💫 About Me
 
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-%23000000.svg?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+- 🚀 Currently working on **M3loma**, an educational platform built with Flutter.
+- 📱 Interested in building modern, user-friendly mobile applications.
+- 🤝 Open to collaborating on **Flutter and Mobile Development** projects.
+- 🌱 Learning more about **Advanced Flutter, Firebase, and Clean Architecture**.
+- 💬 Feel free to ask me about **Flutter, Dart, Firebase, and REST APIs**.
+- ⚡ I enjoy turning ideas into real mobile applications.
 
 ---
 
-# 🚀 Featured Projects:
+## 🌐 Connect With Me
 
-### 📚 M3loma
-A Flutter learning platform focused on providing a clean and engaging experience for students.
-
-### 🎬 Movies App
-A Flutter movie application featuring authentication, search, movie details, and profile management.
-
-### 📅 Evently
-An event management application built with Flutter, Firebase Authentication, Cloud Firestore, Provider, and local persistence.
-
-### 🕌 Islamii App
-An Islamic application featuring Quran, Hadith, Azkar, Prayer Times, Quran Radio, audio playback, APIs, and local caching.
-
-### 📰 News App
-A Flutter news application using REST APIs with language switching, theme customization, and local persistence.
-
----
-
-# 📊 GitHub Stats:
-
-![](https://github-readme-stats.shion.dev/api?username=mohamedmonge58-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-<br/>
-
-![](https://streak-stats.demolab.com/?user=mohamedmonge58-create&theme=dark&hide_border=false)
-
-<br/>
-
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=mohamedmonge58-create&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <a href="https://www.facebook.com/mohamed.monge.56">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="https://www.instagram.com/mohamedd_mongee/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohamed-monge-71675b380/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/mohamedmonge58-create">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 ---
 
-## 🏆 GitHub Trophies:
+## 🛠️ Tech Stack
 
-![](https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
+</p>
+
+### 🔥 Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+</p>
+
+### ⚙️ Tools & Design
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ---
 
-![](https://visitcount.itsvg.in)
+## 🚀 Featured Projects
 
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📚 M3loma</h3>
+      <p>An educational platform built with Flutter, focused on providing students with an organized learning experience.</p>
+    </td>
+    <td width="50%">
+      <h3>🎬 Movies App</h3>
+      <p>A Flutter movie application featuring movie discovery, search, details, and profile-related screens.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📅 Evently</h3>
+      <p>An event management app built with Flutter, Firebase Authentication, Cloud Firestore, and Provider.</p>
+    </td>
+    <td width="50%">
+      <h3>🕌 Islamii App</h3>
+      <p>An Islamic application featuring Quran, Hadith, Azkar, prayer times, Quran radio, and audio playback.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2">
+      <h3>📰 News App</h3>
+      <p>A Flutter news application using REST APIs, with language switching, theme customization, and local preferences.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedmonge58-create&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://streak-stats.demolab.com/?user=mohamedmonge58-create&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmonge58-create&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohamedmonge58-create&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <i>✨ Always learning, building, and improving.</i>
+</p>
