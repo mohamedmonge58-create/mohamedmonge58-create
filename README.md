@@ -136,10 +136,15 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12" alt="GitHub Achievements" />
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12" alt="GitHub Profile Trophies" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Consistency-Keep_Building-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Keep Building"/>
-  <img src="https://img.shields.io/badge/Goal-Continuous_Learning-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Continuous Learning"/>
+  <i>Every contribution is a step forward. Always learning, building, and improving.</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamedmonge58-create?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore-My_Repositories-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Explore My Repositories" />
+  </a>
 </p>
