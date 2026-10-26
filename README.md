@@ -136,17 +136,10 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=12" alt="GitHub Achievements" />
 </p>
 
----
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohamedmonge58-create&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
-</p>
-
-<h3 align="center">✨ Learn. Build. Improve. Repeat.</h3>
-
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
+  <img src="https://img.shields.io/badge/Consistency-Keep_Building-38BDF8?style=for-the-badge&logo=github&logoColor=white" alt="Keep Building"/>
+  <img src="https://img.shields.io/badge/Goal-Continuous_Learning-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="Continuous Learning"/>
 </p>
