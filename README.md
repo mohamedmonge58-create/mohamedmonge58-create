@@ -1,9 +1,16 @@
-# 👋 Hey, I'm Mohamed Monge
+# 👋 Hi, I'm Mohamed Monge
 
-### 🚀 Flutter Developer | Mobile App Development
+<h3 align="center">🚀 Flutter Developer | Mobile Application Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Flutter+Developer;Building+Mobile+Experiences;Turning+Ideas+Into+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Building+Modern+Mobile+Apps;Exploring+Clean+Architecture;Turning+Ideas+Into+Reality" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/mohamedmonge58-create">
+    <img src="https://img.shields.io/badge/GitHub-mohamedmonge58--create-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Flutter%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter Development"/>
 </p>
 
 ---
@@ -11,17 +18,17 @@
 ## 💫 About Me
 
 - 🚀 Currently working on **M3loma**, an educational platform built with Flutter.
-- 📱 Interested in building modern, user-friendly mobile applications.
+- 📱 Passionate about building modern and user-friendly mobile applications.
 - 🤝 Open to collaborating on **Flutter and Mobile Development** projects.
-- 🌱 Learning more about **Advanced Flutter, Firebase, and Clean Architecture**.
-- 💬 Feel free to ask me about **Flutter, Dart, Firebase, and REST APIs**.
-- ⚡ I enjoy turning ideas into real mobile applications.
+- 🌱 Improving my skills in **Advanced Flutter, Firebase, and Clean Architecture**.
+- 💬 Interested in **Flutter, Dart, Firebase, and REST API integration**.
+- ⚡ I enjoy turning ideas into real applications and continuously improving my skills.
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Let's Connect
 
-<p align="left">
+<p align="center">
   <a href="https://www.facebook.com/mohamed.monge.56">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
   </a>
@@ -48,11 +55,11 @@
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native"/>
 </p>
 
-### 🔥 Backend & APIs
+### 🔌 Backend & Integration
 
 <p>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST_APIs-0F766E?style=for-the-badge" alt="REST APIs"/>
 </p>
 
 ### ⚙️ Tools & Design
@@ -69,52 +76,67 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📚 M3loma</h3>
-      <p>An educational platform built with Flutter, focused on providing students with an organized learning experience.</p>
+      <p>An educational platform built with Flutter, focused on delivering an organized learning experience for students.</p>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🎬 Movies App</h3>
-      <p>A Flutter movie application featuring movie discovery, search, details, and profile-related screens.</p>
+      <p>A Flutter movie application featuring movie discovery, search, movie details, and profile-related screens.</p>
+      <a href="https://github.com/Abdelrhman-18/movies_app">View Repository →</a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>📅 Evently</h3>
-      <p>An event management app built with Flutter, Firebase Authentication, Cloud Firestore, and Provider.</p>
+      <p>An event management application built with Flutter, Firebase Authentication, Cloud Firestore, and Provider.</p>
+      <a href="https://github.com/mohamedmonge58-create/Evently">View Repository →</a>
     </td>
-    <td width="50%">
+    <td width="50%" valign="top">
       <h3>🕌 Islamii App</h3>
       <p>An Islamic application featuring Quran, Hadith, Azkar, prayer times, Quran radio, and audio playback.</p>
+      <a href="https://github.com/mohamedmonge58-create/islamii_app">View Repository →</a>
     </td>
   </tr>
   <tr>
-    <td colspan="2">
+    <td width="50%" valign="top">
       <h3>📰 News App</h3>
-      <p>A Flutter news application using REST APIs, with language switching, theme customization, and local preferences.</p>
+      <p>A Flutter news application focused on presenting news content with language and theme customization.</p>
+      <a href="https://github.com/mohamedmonge58-create/News_App">View Repository →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📇 Contact App</h3>
+      <p>A Flutter project focused on contact-related mobile application development.</p>
+      <a href="https://github.com/mohamedmonge58-create/Contact_App">View Repository →</a>
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <a href="https://github.com/mohamedmonge58-create?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohamedmonge58-create&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com/?user=mohamedmonge58-create&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mohamedmonge58-create&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img height="170" src="https://streak-stats.demolab.com/?user=mohamedmonge58-create&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmonge58-create&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedmonge58-create&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohamedmonge58-create&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -123,6 +145,8 @@
   <img src="https://komarev.com/ghpvc/?username=mohamedmonge58-create&style=for-the-badge&color=38BDF8" alt="Profile Views"/>
 </p>
 
+<h3 align="center">✨ Learn. Build. Improve. Repeat.</h3>
+
 <p align="center">
-  <i>✨ Always learning, building, and improving.</i>
+  <i>Thanks for visiting my profile!</i>
 </p>
