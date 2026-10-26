@@ -46,6 +46,8 @@ An Islamic application featuring Quran, Hadith, Azkar, Prayer Times, Quran Radio
 
 ### 📰 News App
 A Flutter news application using REST APIs with language switching, theme customization, and local persistence.
+### 📰 Coffee Shop
+A Flutter coffee_shop application using REST APIs with language switching, theme customization, and local persistence.
 
 ---
 
