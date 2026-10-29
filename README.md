@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Mohamed Monge
 
 <p align="center">
-  <a href="https://my-portfolio-eta-seven-27.vercel.app/">
-    <img src="https://img.shields.io/badge/🚀_Visit_My_Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit My Portfolio"/>
+  <a href="https://my-portfolio-eta-seven-27.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=020617" alt="Explore My Portfolio"/>
   </a>
 </p>
 
