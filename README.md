@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://my-portfolio-eta-seven-27.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/EXPLORE_MY_PORTFOLIO-0F172A?style=for-the-badge&logo=vercel&logoColor=38BDF8&labelColor=020617" alt="Explore My Portfolio"/>
+    <img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-2563EB?style=for-the-badge&logoColor=white&labelColor=1D4ED8" alt="🌐 Visit My Portfolio"/>
   </a>
 </p>
 
